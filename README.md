@@ -48,7 +48,7 @@ Add flashcards to quizzes and flip them to view answers.
 
 #### Topics Slice: Manages topics and their associated quizzes.
 
-### Quizzes Slice: Stores quiz data and links them to topics.
+#### Quizzes Slice: Stores quiz data and links them to topics.
 
 #### Cards Slice: Handles individual flashcards within quizzes.
 
